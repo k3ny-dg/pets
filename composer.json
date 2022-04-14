@@ -1,0 +1,17 @@
+{
+  "name": "k3ny-dg/328/pets",
+  "authors": [
+    {
+      "name": "Keny Dutton",
+      "email": "dutton-gillespie.keny@student.greenriver.edu"
+    },
+    {
+      "name": "Leonzyo Zyfuentes",
+      "email": "zyfuentes.leonzyo@student.greenriver.edu"
+    }
+  ],
+  "require":
+  {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
