@@ -4,7 +4,29 @@ img
     border: 2px black solid;
 }
 
+h1
+{
+    font-family: "Tahoma";
+}
+
+html
+{
+    height: 100%;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-repeat:no-repeat;
+    background: -webkit-linear-gradient( to left top, rgba(255,255,255,1), rgba(105,164,233,1));
+    background: -moz-linear-gradient( to left top, rgba(255,255,255,1), rgba(105,164,233,1));
+    background: -ms-linear-gradient( to left top, rgba(255,255,255,1), rgba(105,164,233,1));
+    background: -o-linear-gradient( to left top, rgba(255,255,255,1), rgba(105,164,233,1));
+    background: linear-gradient( to left top, rgba(255,255,255,1), rgba(105,164,233,1));
+
+}
+
 body
 {
-    background-color: plum;
+    justify-content: center;
 }
+
